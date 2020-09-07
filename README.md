@@ -6,7 +6,7 @@ Adaptation of Space Invaders in SystemVerilog for the Altera DE2-115 FPGA.
 
 ## Demo
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/cysRJn-WV2o/0.jpg)](http://www.youtube.com/watch?v=cysRJn-WV2o "FPGA Space Invaders")
 
 ## Project Overview
 
