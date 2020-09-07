@@ -1,10 +1,14 @@
 # FPGA_Space_Invaders
 
-(Documentation update in progress)
-
 Adaptation of Space Invaders in SystemVerilog for the Altera DE2-115 FPGA. 
 
-[ECE 385 Course Website](https://ece.illinois.edu/academics/courses/ECE385)
+This was a partner project with Pouya Akbarzadeh (https://github.com/OfficialPouya)
+
+This is a final project for UIUC's ECE 385 course, Digital Systems Lab. 
+
+[ECE 385 Course Website](https://ece.illinois.edu/academics/courses/ECE385
+
+I have ommited the code in this repository to avoid the possibility of students currently taking the course to copy and reuse our code for their final project.
 
 ## Demo
 
