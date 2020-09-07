@@ -1,5 +1,12 @@
 # FPGA_Space_Invaders
 
+Adaptation of Space Invaders in SystemVerilog for the Altera DE2-115 FPGA. 
+
+## Demo
+
+## Project Overview
+
+## Documentation
 
 [Final Report](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf)
 
