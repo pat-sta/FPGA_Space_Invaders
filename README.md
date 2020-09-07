@@ -1,7 +1,11 @@
 # FPGA_Space_Invaders
 
 
-docs/FPGA Space Invaders Final Report.pdf
+[Final Report](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf)
+
+[Project Proposal](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Project%20Proposol.pdf)
+
+[ECE 385 Course Website](https://ece.illinois.edu/academics/courses/ECE385)
 
 
 -Code Not Included
