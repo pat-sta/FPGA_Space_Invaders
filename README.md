@@ -14,7 +14,7 @@ I have ommited the code in this repository to avoid the possibility of students 
 ## Final Lab Report
 [![](https://i.gyazo.com/5ad965ec022f2f6d380bdde116992061.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf "Final Lab Report")
 ## Project Proposal
-[![](https://i.gyazo.com/5ad965ec022f2f6d380bdde116992061.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Final%20Report.pdf "Final Lab Report")
+[![](https://i.gyazo.com/5ad965ec022f2f6d380bdde116992061.png)](https://github.com/pat-stach/FPGA_Space_Invaders/blob/master/docs/FPGA%20Space%20Invaders%20Project%20Proposal.pdf "Project Proposal")
 
 
 
